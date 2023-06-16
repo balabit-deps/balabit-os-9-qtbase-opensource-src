@@ -1,3 +1,9 @@
+qtbase-opensource-src (5.15.3+dfsg-2ubuntu0.2bb1) jammy; urgency=medium
+
+  * Forward port patches from balabit-os-8.0
+
+ -- Gergely Tonte <gergely.tonte@oneidentity.com>  Wed, 14 Jun 2023 16:20:17 +0200
+
 qtbase-opensource-src (5.15.3+dfsg-2ubuntu0.2) jammy; urgency=medium
 
   * Add a patch to update signature of SSL_CTX_set_options for OpenSSL 3
